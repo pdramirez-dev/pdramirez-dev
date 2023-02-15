@@ -2,9 +2,11 @@
 <h1>
    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="27"> I am Pablo Enrique Diaz
 </h1>
-<h2>
- <p>I am a Software Engineer, specialized in web development, I have mastery of Java as the main programming language, experience in PHP development, Java Script HTML and CSS, and knowledge of Python. I also have knowledge of design patterns, software architecture, SCRUM and XP development methodology. I am passionate about programming, new technologies and the use of development techniques to create first class products. <p>
-</h2>
+
+<p>I am a Software Engineer, specialized in web development, I have mastery of Java as the main programming language, experience in PHP development, 
+ Java Script HTML and CSS, and knowledge of Python. I also have knowledge of design patterns, software architecture, SCRUM and XP development methodology.
+ I am passionate about programming, new technologies and the use of development techniques to create first class products. <p>
+
 
 ### Follow Me - Sigueme 
 <p align="left">
