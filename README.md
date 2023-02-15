@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdramirez-dev&show_icons=true&theme=transparent)
+<p align="center">
+  <a href="http://www.github.com/pdramirez-dev">
+    <img src="https://activity-graph.herokuapp.com/graph?username=pdramirez-dev&bg_color=181824&color=ffffff&line=ffffff&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
+</p>
