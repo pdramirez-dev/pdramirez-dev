@@ -11,7 +11,7 @@
 ### Follow Me - Sigueme 
 <p align="left">
   <a href="https://twitter.com/@ArchHack98"><img src="https://img.shields.io/twitter/follow/Pablo E?style=social"/></a>
-  <a href="https://github.com/pdramirez-dev"><img src="https://img.shields.io/github/followers/pdarmirez?label=follow&style=social"/></a>
+  <a href="https://github.com/pdramirez-dev"></a>
   <a href="https://linkedin.com/in/pdramirez-dev"><img src="https://img.shields.io/badge/pdramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pdramirez-dev"/></a>
 </p>
 
